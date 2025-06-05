@@ -1,0 +1,7 @@
+stud_names = ("Sandra", "Edidiong", "Esther", "Promise")
+int1 = (1, 2, 3, 4, 5)
+float1 = (1.0, 2.0, 3.0, 4.0, 5.0)
+bool1 = (True, False, True, False)
+#print(type(stud_names))
+#print(stud_names, int1, float1, bool1)
+print(len(stud_names))
